@@ -1,0 +1,76 @@
+body {
+	background-image: linear-gradient(to top right, #282a36, #44475a);
+	color: #f8f8f2;
+	font-family: Fira Sans;
+}
+
+a {
+	color: #f1fa8c;
+	text-decoration: none;
+}
+a:visited {
+	color: #bd93f9;
+}
+
+img#rickastley {
+	width: 20vw;
+	height: 50vh;
+	margin: 10px;
+}
+
+table {
+	width: 90vw;
+	margin: auto;
+	padding: 0;
+}
+#link {
+	width: 20vw;
+	font-size: 1.5em;
+	padding: 0.5vw;
+	text-align: center;
+	font-weight: 200;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3.5em;
+}
+#content {
+	font-size: 1.1em;
+	margin-left: 5vw;
+	margin-right: 5vw;
+}
+
+blockquote {
+	text-align: center;
+	font-family: My Soul;
+	font-size: 2em;
+}
+
+input {
+	border: 2px solid #f1fa8c;
+	background-color: #6272a4;
+	border-radius: 3em;
+	color: #f8f8f2;
+	padding: 6px;
+}
+
+#lists {
+	font-size: 1.2em;
+	margin: auto;
+	display: table;
+}
+h4 {
+	text-align: center;
+}
+
+#subsakaribe {
+	margin-top: 2vh;
+	text-align: center;
+	
+}
+
+#footer {
+	background-color: #282a36;
+	margin-bottom: 0;
+}
